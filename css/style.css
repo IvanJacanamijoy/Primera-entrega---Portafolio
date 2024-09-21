@@ -86,7 +86,7 @@ h1.portafolio_titulo{
 div.portafolio_item{
     display: inline-block;
     text-align: center;
-    min-width: 30%;
+    min-width: 350px;
 }
 
 img.portafolio_item_imagen{
